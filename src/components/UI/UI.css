@@ -1,0 +1,9 @@
+
+.meal-input{
+    width: 6rem;
+    height: 2rem;
+    size: 6rem;
+    border:none;
+    border:.2rem solid black;
+    border-radius: .5rem;
+}
